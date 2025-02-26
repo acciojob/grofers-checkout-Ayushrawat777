@@ -10,4 +10,3 @@
             totalRow.innerHTML = `<td><strong>Total Price</strong></td><td><strong>$${total.toFixed(2)}</strong></td>`;
             document.getElementById('grocery-list').appendChild(totalRow);
         });
-
